@@ -26,7 +26,7 @@ function choicePlayer(makeYourChoice){
       choice = "images/char-boy.png";
   }
   return choice;
-};
+}
 
 
 // Enemies our player must avoid
@@ -97,13 +97,6 @@ Player.prototype.render = function() {
 // Now instantiate your objects.
 // Place all enemy objects in an array called allEnemies
 
-var allEnemies= function () {
-
-};
-allEnemies.prototype.render= function(){
-
-
-};
 var allEnemies = [new Enemy(300, 55.5), new Enemy(200, 135), new Enemy(300, 225), new Enemy(-400, 135)];
 // Place the player object in a variable called player
 
