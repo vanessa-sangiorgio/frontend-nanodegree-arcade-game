@@ -4,10 +4,11 @@
 This is a simple game where the main goal is that our player has to get to water without any collision with the bugs.
 This is a projects created by Vanessa Sangiorgio thanks _Udacity Nanodegree_ program.
 
-##USAGE
+##USAGE AND INSTRUCTION
 -------
 
-use the arrow on your keyboard to move the player. You can move him or her:
+Open the file index.html
+Let's play, use the arrow on your keyboard to move the player. You can move him or her:
 'UP' 
 'DOWN'
 'RIGHT'
